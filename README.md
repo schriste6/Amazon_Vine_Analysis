@@ -32,4 +32,4 @@ Using product reviews data from Amazon, perform analysis to determine if it is w
    - Mean star rating:
      - Vine reviewer:  4.1 
      - Non Vine reviewer: 3.9
-  ![](/Images/vine_nonvine_mean_stars.png)
+   ![](/Images/vine_nonvine_mean_stars.png)
