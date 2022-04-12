@@ -1,6 +1,6 @@
 # Amazon Vine Analysis
 ## Purpose:  
-Using product reviews data from Amazon, perform analysis it is worthwhile to subscribe to a Vine program. The vine review program is an incentive model in which customers are 'paid' when they write reviews. 
+Using product reviews data from Amazon, perform analysis to determine if it is worthwhile to subscribe to a Vine program. The vine review program is an incentive model in which customers are 'paid' when they write reviews. 
 ### US Reviews Dataset:
     - Apparel (https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Apparel_v1_00.tsv.gz)
 ### Technologies:
