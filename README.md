@@ -9,7 +9,7 @@ Using product reviews data from Amazon, perform analysis to determine if it is w
     - Amazon Web Service (AWS) and RDS and S3
     - PostgreSQL  
 ### Postgres query messages:  
-    - ![](/Images/products_table_sql_msg.png), ![](/Images/products_table_sql_msg.png), ![](/Images/review_id_table_sql_msg.png), ![](/Images/vine_table_sql_msg.png)
+![](/Images/products_table_sql_msg.png), ![](/Images/products_table_sql_msg.png), ![](/Images/review_id_table_sql_msg.png), ![](/Images/vine_table_sql_msg.png)
 
 ## Results:
 - How many Vine reviews and non-Vine reviews were there?
